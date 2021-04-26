@@ -1,6 +1,4 @@
-```
-【摘要】Dockerfile无法执行 apt-get update，错误提示：Could not connect to archive.ubuntu.com:80 尝试过修改DNS无效，最终是通过修改源解决此问题。 网上提供的dockerfile大部分都是在ubuntu默认源执行apt-update，此时build过程非常慢，甚至请求time out，而且打包出来的镜像使用时也会存在慢的情况。首...
-```
+> 【摘要】Dockerfile无法执行 apt-get update，错误提示：Could not connect to archive.ubuntu.com:80 尝试过修改DNS无效，最终是通过修改源解决此问题。 网上提供的dockerfile大部分都是在ubuntu默认源执行apt-update，此时build过程非常慢，甚至请求time out，而且打包出来的镜像使用时也会存在慢的情况。首...
 
 Dockerfile无法执行 apt-get update，错误提示：Could not connect to archive.ubuntu.com:80
 
