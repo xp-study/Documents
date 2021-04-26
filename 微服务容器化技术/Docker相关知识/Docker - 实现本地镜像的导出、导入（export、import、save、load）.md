@@ -10,7 +10,7 @@
 
 这两个命令是通过容器来导入、导出镜像。首先我们使用 **docker ps -a** 命令查看本机所有的容器。
 
-[![原文:Docker - 实现本地镜像的导出、导入（export、import、save、load）](https://www.hangge.com/blog_uploads/201905/2019050717392713580.png)]
+[![原文:Docker - 实现本地镜像的导出、导入（export、import、save、load）](../images/Docker%20-%20实现本地镜像的导出、导入（export、import、save、load）/1.jpg)
 
 
 ### 2，导出镜像
