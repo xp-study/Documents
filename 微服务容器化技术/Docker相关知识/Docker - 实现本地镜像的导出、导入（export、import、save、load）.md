@@ -49,7 +49,7 @@ docker import - new_hangger_server < hangger_server.tar
 
 这两个命令是通过镜像来保存、加载镜像文件的。首先我们使用 **docker images** 命令查看本机所有的镜像。
 
-[![原文:Docker - 实现本地镜像的导出、导入（export、import、save、load）](https://www.hangge.com/blog_uploads/201905/2019050717553854896.png)]
+[![原文:Docker - 实现本地镜像的导出、导入（export、import、save、load）](./images/Docker%20-%20实现本地镜像的导出、导入（export、import、save、load）/4.jpg)
 
 
 
