@@ -24,7 +24,7 @@ docker export f299f501774c > hangger_server.tar
 
 （2）上面命令执行后，可以看到文件已经保存到当前的 **docker** 终端目录下。
 
-[![原文:Docker - 实现本地镜像的导出、导入（export、import、save、load）](https://www.hangge.com/blog_uploads/201905/2019050717450053020.png)]
+[![原文:Docker - 实现本地镜像的导出、导入（export、import、save、load）](./images/Docker%20-%20实现本地镜像的导出、导入（export、import、save、load）/2.jpg)
 
 
 
@@ -39,7 +39,7 @@ docker import - new_hangger_server < hangger_server.tar
 
 （2）执行 **docker images** 命令可以看到镜像确实已经导入进来了。
 
-[![原文:Docker - 实现本地镜像的导出、导入（export、import、save、load）](https://www.hangge.com/blog_uploads/201905/201905071749348504.png)]
+[![原文:Docker - 实现本地镜像的导出、导入（export、import、save、load）](./images/Docker%20-%20实现本地镜像的导出、导入（export、import、save、load）/3.jpg)
 
 
 
