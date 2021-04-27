@@ -2,7 +2,7 @@
 
 我很早之前写过一篇关于 HTTP 和 HTTPS 的文章，但对于 HTTPS 介绍还不够详细，只讲了比较基础的部分，所以这次我们再来深入一下 HTTPS，用**实战抓包**的方式，带大家再来窥探一次 HTTPS。
 
-![图片](.\images\几幅图，拿下 HTTPS\1.jpg)
+![图片](./images/几幅图，拿下 HTTPS/1.jpg)
 
 对于还不知道对称加密和非对称加密的同学，你先复习我以前的这篇文章[「硬核！30 张图解 HTTP 常见的面试题」，](https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247483971&idx=1&sn=8f2d5dae3d95efc446061b352c8e9961&scene=21#wechat_redirect)本篇文章默认大家已经具备了这些知识。
 
