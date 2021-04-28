@@ -1,4 +1,4 @@
-## 可能是目前最全的讲 DHCP的文章了
+## 可能是目前最全的讲DHCP的文章了
 
 对于 DHCP 协议，你可能想知道以下几个问题：
 
@@ -62,7 +62,7 @@ option routers 10.10.0.1;
 
 为了更好地给用户体验，很多系统都会提供配置 DHCP 地址池的界面：
 
-![图片](C:\Users\Administrator\Desktop\1\images\1.jpg)
+![图片](./images/可能是目前最全的讲DHCP的文章了/1.jpg)
 
 **配置数据交付**
 
