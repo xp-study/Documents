@@ -83,7 +83,7 @@ sudo ldconfig # refresh shared library cache.
 
 **make之后的截图**
 
-![宛十八微服务](.\images\protobuf安装\1.jpg)
+![宛十八微服务](./images/protobuf安装/1.jpg)
 
 **中途编译一路顺风，没有遇到什么问题，下面查看下版本吧**
 
@@ -91,4 +91,4 @@ sudo ldconfig # refresh shared library cache.
 protoc --version
 ```
 
-![宛十八微服务](.\images\protobuf安装\2.jpg)
+![宛十八微服务](./images/protobuf安装/2.jpg)
