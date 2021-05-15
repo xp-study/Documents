@@ -937,8 +937,6 @@ netdev_tx_t igb_xmit_frame_ring(struct sk_buff *skb,
 
 在这里从网卡的发送队列的 RingBuffer 中取下来一个元素，并将 skb 挂到元素上。
 
-![图片](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
-
 igb_tx_map 函数处理将 skb 数据映射到网卡可访问的内存 DMA 区域。
 
 ```
